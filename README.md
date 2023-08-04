@@ -17,9 +17,20 @@ apt install steghide
    - www.tinyurl.com/iwantfoodpics
    - www.tinyurl.com/getpoorwithme
    - www.tinyurl.com/lolthisisalink
-3. We also found that Tom learnt something new called Base64 (might be useful)
+3. We also found that Jerry learnt something new called Base64 (might be useful)
 4. Going through the links, we found that www.tinyurl.com/iwantfoodpics is the correct link which will lead you to a Google Drive and in it contains the following:
 
 ![image](https://github.com/1-Xenon/osint-workshop/assets/110148117/17bef071-f8de-43e4-918c-a41fb90ce335)
 
+5. After opening a file.txt, we see that there are data that are encoded in a mysterious encoding method. However, we had found that Jerry had learnt Base64 and thus deduced that the data is encoded in Base64.
+6. Upon decoding the data, we discovered the following:
+   - flandersleftear
+   - flanderslefteye
+   - iloveehip
+   - flandersrightear
+   - flandersrighteye
+   - eugenerighteye
+   - ihateehip
+7. With the following data and the bg.jpg file, it can be deduced that the data are passwords that could uncover the data that is hiding behind the picture
+8. Download the image and head to Kali Linux to use steghide
 
