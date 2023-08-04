@@ -12,3 +12,13 @@ apt install steghide
 
 # Solution
 1. Head to Instagram and open up Tom's profile at www.instagram.com/tom_the_ct/
+2. Upon scrolling through the posts, we find the following links:
+   - www.tinyurl.com/answerforfree
+   - www.tinyurl.com/iwantfoodpics
+   - www.tinyurl.com/getpoorwithme
+   - www.tinyurl.com/lolthisisalink
+3. We also found that Tom learnt something new called Base64 (might be useful)
+4. Going through the links, we found that www.tinyurl.com/iwantfoodpics is the correct link which will lead you to a Google Drive and in it contains the following:
+   ![image](https://github.com/1-Xenon/osint-workshop/assets/110148117/17bef071-f8de-43e4-918c-a41fb90ce335)
+
+
