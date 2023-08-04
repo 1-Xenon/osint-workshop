@@ -19,6 +19,7 @@ apt install steghide
    - www.tinyurl.com/lolthisisalink
 3. We also found that Tom learnt something new called Base64 (might be useful)
 4. Going through the links, we found that www.tinyurl.com/iwantfoodpics is the correct link which will lead you to a Google Drive and in it contains the following:
-   ![image](https://github.com/1-Xenon/osint-workshop/assets/110148117/17bef071-f8de-43e4-918c-a41fb90ce335)
+
+![image](https://github.com/1-Xenon/osint-workshop/assets/110148117/17bef071-f8de-43e4-918c-a41fb90ce335)
 
 
