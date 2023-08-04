@@ -39,4 +39,13 @@ steghide extract -sf bg.jpg -p flandersrightear
 ```bash
 OSINT{j3rRy_tHe_m0use}
 ```
+```bash
+Bonus Challenge:
+After capturing Jerry, both of them decided to hide from the owner of the house in one of the rooms, can you look around the house and find them?
 
+Link to house: https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6ucy-PbeF3
+```
+11. For the second flag, it is hidden in Room 8 of the drive
+```bash
+OSINT{t0m_a&d_j3rRy}
+```
