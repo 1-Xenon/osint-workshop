@@ -47,5 +47,7 @@ Link to house: https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6uc
 ```
 11. For the second flag, it is hidden in the picture of the Study Room. Password is bikinibottom (the name of the place inside the picture)
 ```bash
+steghide extract -sf Our Favorite Place - Tom&Jerry.jpg -p bikinibottom
+
 OSINT{t0m_a&d_j3rRy}
 ```
