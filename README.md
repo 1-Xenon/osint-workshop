@@ -45,7 +45,7 @@ After capturing Jerry, both of them decided to hide from the owner of the house 
 
 Link to house: https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6ucy-PbeF3
 ```
-11. For the second flag, it is hidden in Room 14 of the drive
+11. For the second flag, it is hidden in the picture of the Study Room. Password is bikinibottom (the name of the place inside the picture)
 ```bash
 OSINT{t0m_a&d_j3rRy}
 ```
