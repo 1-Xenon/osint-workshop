@@ -45,9 +45,16 @@ After capturing Jerry, both of them decided to hide from the owner of the house 
 
 Link to house: https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6ucy-PbeF3
 ```
-11. For the second flag, it is hidden in the picture of the Study Room. Password is bikinibottom (the name of the place inside the picture)
+11. Inside the house, there are multiple folders and a text file for us to read. Inside the text file, it tells us to take everything we have seen into consideration.
+12. For the second flag, it is hidden in the picture of the Study Room.
+13. How to get the password for the second picture? There are 2 ways for you to do so:
+    1. Through Jerry's story where the location is shown (deduction)
+    2. Through the hint given inside the Toilet folder where it says the password is the country of the picture.jpg file
+
+Password is venezuela (the name of the place inside the picture)
 ```bash
-steghide extract -sf Our Favorite Place - Tom&Jerry.jpg -p bikinibottom
+steghide extract -sf picture.jpg -p venezuela
 
 OSINT{t0m_a&d_j3rRy}
 ```
+
