@@ -45,7 +45,7 @@ After capturing Jerry, both of them decided to hide from the owner of the house 
 
 Link to house: https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6ucy-PbeF3
 ```
-11. Inside the house, there are multiple folders and a text file for us to read. Inside the text file, it tells us to take everything we have seen into consideration.
+11. Inside the house(https://drive.google.com/drive/folders/1tgk0Vm6C166SCCUYH9SAf_6ucy-PbeF3), there are multiple folders and a text file for us to read. Inside the text file, it tells us to take everything we have seen into consideration.
 12. For the second flag, it is hidden in the picture of the Study Room.
 13. How to get the password for the second picture? There are 2 ways for you to do so:
     1. Through Jerry's story where the location is shown (deduction)
